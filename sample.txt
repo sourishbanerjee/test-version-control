@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am working in feature 1
+=======
+I am working in feature 2
+>>>>>>> v0.2
